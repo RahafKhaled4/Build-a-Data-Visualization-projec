@@ -5,3 +5,7 @@ Will create data visualizations that tell a story or highlight patterns in the d
 Work  be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
 
 - I chose Dataset from a Kaggle " Flight Delays and Cancellations " : link here: https://www.kaggle.com/usdot/flight-delays/data.
+
+## My Project
+
+### Dashboard 1
