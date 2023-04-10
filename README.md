@@ -26,3 +26,20 @@ numbers average with state.
 ### - Links to show dashboard in Tablue :
 https://public.tableau.com/authoring/Avg_Cancel/Dashboard1#1
 
+### Dashboard 3
+![Screenshot (1644)](https://user-images.githubusercontent.com/70021800/230817619-b09d9cf7-693f-4939-8c56-9cd1dc8769f2.png)
+
+### - Summary:
+The above bar chart describes the airline delay rate in each airline as
+shown airlines “WN” it has highest delay rate is “182,670 km”, It also shows the 
+least delay is “VX” which rate is “7,583 km”.
+
+### - Designee:
+Use bar chart is the best type to show segments of information, in 
+additions useful to compare different categorical, I choice color Indigo blue to 
+simulate the colors of the sky.
+
+### - Links to show dashboard in Tablue :
+https://public.tableau.com/authoring/Avg_Cancel/Airline#1
+
+
