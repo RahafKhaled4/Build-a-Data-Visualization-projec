@@ -26,6 +26,24 @@ numbers average with state.
 ### - Links to show dashboard in Tablue :
 https://public.tableau.com/authoring/Avg_Cancel/Dashboard1#1
 
+
+### Dashboard 2
+![Screenshot (1642)](https://user-images.githubusercontent.com/70021800/230818083-7813dc89-35f5-4a4d-b581-2dd83ce20a9b.png)
+
+### - Summary:
+The above figure describes the weather delay in each month through 
+analysis line chart the most delayed month is “2” and weather delay equal is 
+“24,203 minutes”, It also shows the least month “9” and weather delay equal is 
+“8,897 minutes”.
+
+### - Designee:
+Use line chart because is the best type of chart to plot numerical data 
+when a chronology is required.
+
+### - Links to show dashboard in Tablue :
+ https://public.tableau.com/authoring/Avg_Cancel/Delay#1
+
+
 ### Dashboard 3
 ![Screenshot (1644)](https://user-images.githubusercontent.com/70021800/230817619-b09d9cf7-693f-4939-8c56-9cd1dc8769f2.png)
 
@@ -41,5 +59,7 @@ simulate the colors of the sky.
 
 ### - Links to show dashboard in Tablue :
 https://public.tableau.com/authoring/Avg_Cancel/Airline#1
+
+
 
 
